@@ -3,9 +3,9 @@
   <metadata>
     <id>greenshot</id>
     <title>Greenshot</title>
-    <version>1.2.8.12</version>
+    <version>1.2.8.14</version>
     <authors>Greenshot</authors>
-    <owners>devious</owners>
+    <owners>Greenshot</owners>
     <summary>Greenshot is a light-weight screenshot software tool for Windows.</summary>
     <description>Greenshot is a light-weight screenshot software tool for Windows with the following key features:
 Quickly create screenshots of a selected region, window or fullscreen; you can even capture complete (scrolling) web pages from Internet Explorer.
